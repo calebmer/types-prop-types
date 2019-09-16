@@ -60,7 +60,7 @@ export const array: Requireable<any[]>;
 export const bool: Requireable<boolean>;
 export const func: Requireable<(...args: any[]) => any>;
 export const number: Requireable<number>;
-export const object: Requireable<object>;
+export const object: Requireable<{[key: string]: any}>;
 export const string: Requireable<string>;
 export const node: Requireable<ReactNodeLike>;
 export const element: Requireable<ReactElementLike>;
