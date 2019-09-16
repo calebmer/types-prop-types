@@ -1,6 +1,6 @@
 {
-  "name": "@types/prop-types",
-  "version": "15.7.2",
+  "name": "@calebmer-airtable/types-prop-types",
+  "version": "15.7.2-patch.1",
   "description": "TypeScript definitions for prop-types",
   "license": "MIT",
   "repository": {
